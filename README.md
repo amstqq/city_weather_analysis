@@ -4,7 +4,7 @@ This is a two-part project aiming to visualize global weather trend. The first p
 
 ## Python packages
 
-These packages are required to be installed in order to run the jupyter notebook.
+These packages are required to run the jupyter notebook.
 - matplotlib
 - pandas
 - numpy
