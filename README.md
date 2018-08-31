@@ -1,6 +1,6 @@
 # Weather Analysis
 
-This is a two-part project aiming to visualize global weather trend. The first part of the project uses OpenWeatherMap API, Python requests, and JSON traversals to obtain weather data about 500+ random cities across the globe and create a representative model of weather across world cities. The second part of the project is a visualization dashboard website built with bootstrap using models and analysis obtained from part I. The website will contain all visualizations along with their corresponding explanations as well as the data used to create these visualizations. 
+This project uses OpenWeatherMap API, Python requests, and JSON traversals to obtain weather data about 500+ random cities across the globe and create a representative model of weather trend. A visualization dashboard website is built with bootstrap using data collected from OpenWeatherMapAPI. The website contains all charts and graphs, explanations for weather trends, and data used to create the visualizations.
 
 ## Python packages
 
